@@ -1,0 +1,7 @@
+{
+    "name": "audio_processor",
+    "build": {
+        "srcDir": "src",
+        "flags": ["-Isrc/kissfft", "-Isrc/kissfft/tools", "-Ofast"]
+    }
+}
